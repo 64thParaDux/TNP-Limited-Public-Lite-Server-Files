@@ -1,0 +1,30 @@
+{
+  "name": "default",
+  "prefix": "&8[§5§kUwU§r§d Player §5§kUwU§r&8]",
+  "suffix": "&8[§5§kUwU§r§d Donator §5§kUwU§r&8]",
+  "perms": [
+    "serverutils.back",
+    "serverutils.delhome",
+    "serverutils.home",
+    "serverutils.maxhome_5",
+    "serverutils.homes",
+    "serverutils.msg",
+    "serverutils.msg.toggle",
+    "serverutils.respond",
+    "serverutils.rtp",
+    "serverutils.rtpnear",
+    "serverutils.rtpfar",
+    "serverutils.sethome",
+    "serverutils.spawn",
+    "serverutils.tpa",
+    "serverutils.tpa.here",
+    "serverutils.tpa.deny",
+    "serverutils.tpa.accept",
+    "serverutils.warp",
+    "serverutils.warps"
+  ],
+  "parents": [],
+  "weight": 0,
+  "rank_up": 0,
+  "next_ranks": []
+}

@@ -1,0 +1,12 @@
+{
+  "name": "mod",
+  "prefix": "Moderator",
+  "suffix": "",
+  "perms": [],
+  "parents": [
+    "op"
+  ],
+  "weight": 0,
+  "rank_up": 0,
+  "next_ranks": []
+}
