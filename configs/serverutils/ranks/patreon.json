@@ -1,10 +1,10 @@
 {
   "name": "patreon",
-  "prefix": "Patreon",
+  "prefix": "§c[Patreon]",
   "suffix": "",
   "perms": [],
   "parents": [],
-  "weight": 0,
+  "weight": 610,
   "rank_up": 0,
   "next_ranks": []
 }

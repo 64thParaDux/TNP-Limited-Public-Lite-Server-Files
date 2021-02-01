@@ -1,0 +1,16 @@
+{
+  "name": "whitelistedchecked",
+  "prefix": "§9[Whitelist]",
+  "suffix": "§9[Approved]",
+  "perms": [
+    "serverutils.maxhome_4"  
+    ],
+  "parents": [
+    "member",
+    "default",
+    "longterm"
+  ],
+  "weight": 80,
+  "rank_up": 0,
+  "next_ranks": []
+}

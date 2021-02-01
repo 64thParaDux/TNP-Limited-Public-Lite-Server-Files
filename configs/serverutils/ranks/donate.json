@@ -1,10 +1,13 @@
 {
   "name": "donate",
-  "prefix": "Donator",
+  "prefix": "§e[Donator]",
   "suffix": "",
-  "perms": [],
+  "perms": [
+      "serverutils.maxhome_5",
+      "serverutils.fly"
+      ],
   "parents": [],
-  "weight": 0,
+  "weight": 69,
   "rank_up": 0,
   "next_ranks": []
 }

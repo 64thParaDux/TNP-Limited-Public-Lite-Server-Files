@@ -1,0 +1,16 @@
+{
+  "name": "member",
+  "prefix": "§e[Member]"
+  "suffix": "§e[New]"
+  "perms": [
+    "serverutils.maxhome_2",
+      ],
+  "parents": [
+    "default"
+  ],
+  "weight": 47,
+  "rank_up": 1000,
+  "next_ranks": [
+    "longterm"  
+  ]
+}

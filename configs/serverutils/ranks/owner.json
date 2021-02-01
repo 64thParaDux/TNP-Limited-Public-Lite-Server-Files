@@ -1,12 +1,12 @@
 {
-  "name": "mod",
-  "prefix": "Moderator",
+  "name": "owner",
+  "prefix": "",
   "suffix": "",
   "perms": [],
   "parents": [
     "op"
   ],
-  "weight": 2000,
+  "weight": 20000,
   "rank_up": 0,
   "next_ranks": []
 }

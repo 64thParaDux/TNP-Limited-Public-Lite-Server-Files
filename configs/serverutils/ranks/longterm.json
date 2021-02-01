@@ -1,0 +1,17 @@
+{
+  "name": "longterm",
+  "prefix": "§6[Member]"
+  "suffix": "§6[Veteran]"
+  "perms": [
+    "serverutils.maxhome_2",
+      ],
+  "parents": [
+    "default",
+    "member"
+  ],
+  "weight": 48,
+  "rank_up": 1000,
+  "next_ranks": [
+    "whitelisted"
+    ]
+}
