@@ -1,16 +1,14 @@
 {
   "name": "member",
-  "prefix": "§e[Member]"
-  "suffix": "§e[New]"
+  "prefix": "",
+  "suffix": "",
   "perms": [
-    "serverutils.maxhome_2",
-      ],
+    "serverutils.rtp"
+  ],
   "parents": [
     "default"
   ],
   "weight": 47,
-  "rank_up": 1000,
-  "next_ranks": [
-    "longterm"  
-  ]
+  "rank_up": 0,
+  "next_ranks": []
 }

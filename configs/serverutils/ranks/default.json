@@ -6,14 +6,12 @@
     "serverutils.back",
     "serverutils.delhome",
     "serverutils.home",
-    "serverutils.maxhome_1",
+    "serverutils.maxhome_5",
     "serverutils.homes",
     "serverutils.msg",
     "serverutils.msg.toggle",
     "serverutils.respond",
-    "serverutils.rtp",
     "serverutils.rtpnear",
-    "serverutils.rtpfar",
     "serverutils.sethome",
     "serverutils.spawn",
     "serverutils.tpa",
@@ -26,7 +24,5 @@
   "parents": [],
   "weight": 1,
   "rank_up": 0,
-  "next_ranks": [
-    "member"  
-  ]
+  "next_ranks": []
 }
